@@ -1,0 +1,11 @@
+{
+  "season": "2026/2027",
+  "membersUrl": "https://www.chess.sk/index.php?str=clenovia&klubId=60301",
+  "leagues": [
+    { "id": "1452291", "name": "Slovenská šachová extraliga", "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0" },
+    { "id": "1457192", "name": "1. liga Západ", "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0" },
+    { "id": "1457218", "name": "2. liga B", "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0" },
+    { "id": "1492224", "name": "3. liga B2", "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0" },
+    { "id": "1502262", "name": "4. liga B21", "boards": 5, "rounds": 10, "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0" }
+  ]
+}
