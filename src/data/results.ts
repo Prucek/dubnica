@@ -2,31 +2,57 @@ import type { Season } from '../types';
 
 export const seasons: Season[] = [
   {
+    year: '2026/2027',
+    teams: [
+      {
+        name: 'Družstvo A',
+        league: 'Slovenská šachová extraliga',
+        chessResultsUrl: 'https://s3.chess-results.com/tnr1452291.aspx?lan=4&art=0&SNode=S0',
+      },
+      {
+        name: 'Družstvo B',
+        league: '1. liga Západ',
+        chessResultsUrl: 'https://s3.chess-results.com/tnr1457192.aspx?lan=4&art=14&SNode=S0',
+      },
+      {
+        name: 'Družstvo C',
+        league: '2. liga B',
+        chessResultsUrl: 'https://s3.chess-results.com/tnr1457218.aspx?lan=4&art=0&SNode=S0',
+      },
+      {
+        name: 'Družstvá D a E',
+        league: '3. liga B2',
+        chessResultsUrl: 'https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0',
+      },
+      {
+        name: 'Družstvá F a G',
+        league: '4. liga B21',
+        chessResultsUrl: 'https://s1.chess-results.com/tnr1502262.aspx?lan=4&art=0&SNode=S0',
+      },
+    ],
+  },
+  {
     year: '2025/2026',
     teams: [
       {
         name: 'Družstvo A',
         league: 'TIPOS šachová Extraliga',
         chessResultsUrl: 'https://s2.chess-results.com/tnrWZ.aspx?lan=4&art=0&SNode=S0&tno=1237261',
-        position: '9. miesto (prebieha)',
       },
       {
         name: 'Družstvo C',
         league: '2. liga B',
         chessResultsUrl: 'https://s2.chess-results.com/tnr1237624.aspx?lan=4&SNode=S0',
-        position: '1. miesto (prebieha)',
       },
       {
         name: 'Družstvo D, E, F',
         league: '3. liga B2',
         chessResultsUrl: 'https://s1.chess-results.com/tnr1243676.aspx?lan=4&SNode=S0',
-        position: 'D: 1. miesto (prebieha)',
       },
       {
         name: 'Družstvo G, H',
         league: '4. liga B21',
         chessResultsUrl: 'https://s2.chess-results.com/tnr1264483.aspx?lan=4&SNode=S0',
-        position: 'G: 1. miesto (prebieha)',
       },
     ],
   },
@@ -160,21 +186,6 @@ export const seasons: Season[] = [
         league: 'ECo-C Extraliga',
         chessResultsUrl: 'https://chess-results.com/tnr229818.aspx?lan=4',
       },
-      {
-        name: 'Družstvo B',
-        league: '1. liga',
-        chessResultsUrl: 'https://chess-results.com/tnr259499.aspx?lan=4',
-      },
-      {
-        name: 'Družstvo C',
-        league: '3. liga',
-        chessResultsUrl: 'https://chess-results.com/tnr259500.aspx?lan=4',
-      },
-      {
-        name: 'Družstvo D a E',
-        league: '4. liga',
-        chessResultsUrl: 'https://chess-results.com/tnr259501.aspx?lan=4',
-      },
     ],
   },
   {
@@ -183,7 +194,7 @@ export const seasons: Season[] = [
       {
         name: 'Družstvo A',
         league: 'Extraliga',
-        chessResultsUrl: 'https://chess-results.com/tnr210024.aspx?lan=4',
+        chessResultsUrl: 'https://chess-results.com/tnr180567.aspx?lan=4',
       },
     ],
   },
@@ -193,7 +204,7 @@ export const seasons: Season[] = [
       {
         name: 'Družstvo A',
         league: 'Extraliga',
-        chessResultsUrl: 'https://chess-results.com/tnr166476.aspx?lan=4',
+        chessResultsUrl: 'https://chess-results.com/tnr139659.aspx?lan=4',
       },
     ],
   },
@@ -203,17 +214,7 @@ export const seasons: Season[] = [
       {
         name: 'Družstvo A',
         league: 'Extraliga',
-        chessResultsUrl: 'https://chess-results.com/tnr129164.aspx?lan=4',
-      },
-      {
-        name: 'Družstvo B',
-        league: '1. liga',
-        chessResultsUrl: 'https://chess-results.com/tnr129165.aspx?lan=4',
-      },
-      {
-        name: 'Družstvo C',
-        league: '3. liga',
-        chessResultsUrl: 'https://chess-results.com/tnr129166.aspx?lan=4',
+        chessResultsUrl: 'https://chess-results.com/tnr106096.aspx?lan=4',
       },
     ],
   },

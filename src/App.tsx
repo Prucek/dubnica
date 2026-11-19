@@ -2,7 +2,7 @@ import Layout from './components/layout/Layout';
 import Hero from './components/home/Hero';
 import QuickInfo from './components/home/QuickInfo';
 import ChessPuzzle from './components/home/ChessPuzzle';
-import FacebookWidget from './components/home/FacebookWidget';
+import { ClubDataProvider } from './context/ClubDataContext';
 import SponsorBar from './components/home/SponsorBar';
 import Section from './components/ui/Section';
 import ResultsPage from './pages/ResultsPage';
@@ -17,7 +17,7 @@ import ContributionPage from './pages/ContributionPage';
 
 export default function App() {
   return (
-    <Layout>
+    <ClubDataProvider><Layout>
       <div id="domov">
         <Hero />
       </div>
@@ -36,10 +36,6 @@ export default function App() {
 
       <Section title="Denná šachová úloha" id="puzzle" className="bg-white dark:bg-navy-900">
         <ChessPuzzle />
-      </Section>
-
-      <Section title="Sledujte nás" id="facebook">
-        <FacebookWidget />
       </Section>
 
       <div id="aktuality">
@@ -90,6 +86,6 @@ export default function App() {
           <SponsorBar />
         </div>
       </Section>
-    </Layout>
+    </Layout></ClubDataProvider>
   );
 }

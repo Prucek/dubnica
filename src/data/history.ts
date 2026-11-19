@@ -163,11 +163,11 @@ export const historySections: HistorySection[] = [
     events: [
       {
         year: '2010/2011',
-        text: 'Poistenie 15-násobnej účasti v najvyššej lige víťazstvom nad Prievidzou (5:3). Výborný vstup B tímu do sezóny — 1. miesto po úvodných kolách.',
+        text: 'Udržanie miesta v najvyššej lige víťazstvom nad Prievidzou (5:3). Výborný vstup B tímu do sezóny — 1. miesto po úvodných kolách.',
       },
       {
         year: '2011/2012',
-        text: 'Vladimír Vojtek zvíťazil na Open Tatry 2011 a splnil IM normu! Rekordná 15. po sebe idúca sezóna v Extralige — Dubnica poslala Prievidzu s tromi GM do 1. ligy.',
+        text: 'Vladimír Vojtek zvíťazil na Open Tatry 2011 a splnil IM normu! Dubnica pokračovala v extraligovej sérii a poslala Prievidzu s tromi GM do 1. ligy.',
       },
       {
         year: '2012/2013',
@@ -197,7 +197,13 @@ export const historySections: HistorySection[] = [
       },
       {
         year: '2025/2026',
-        text: 'Aktuálna sezóna — A tím v TIPOS šachovej Extralige (9. miesto). C tím vedie 2. ligu B na 1. mieste, D tím vedie 3. ligu B2, G tím vedie 4. ligu B21. Klub má opäť tímy A–H vo všetkých ligových úrovniach.',
+        text: 'Úspechy Dubnice presahujú družstvové súťaže. Vladimír Vojtek v roku 2025 vyhral 71. Tatranský pohár a zopakoval triumf z roku 2011. Karol Motúz obsadil 7. miesto na majstrovstvách Európy seniorov. Obaja získali v januári 2026 ocenenie mesta za reprezentáciu dubnického šachu.',
+        sources: [{ label: 'Mesto Dubnica — ocenení šachisti', url: 'https://www.dubnica.eu/udalosti-v-meste/aktuality/v-roku-2025-domov-z-najvyssej-sutaze-prinieslo-medailu-22-dubnickych-sportovcov-a-sportovkyn-4147sk.html' }],
+      },
+      {
+        year: '2026/2027 — sedem družstiev, päť ligových úrovní',
+        text: 'Dubnické družstvá A až G nastupujú od Extraligy cez 1., 2. a 3. ligu až po 4. ligu. Klub tak spája najvyššiu súťaž s priestorom na získavanie zápasových skúseností v nižších ligách. Odbornú prácu s mládežou aj dospelými dlhodobo rozvíja tréner Peter Bombek; pravidelné spoločné tréningy sú súčasťou klubového života.',
+        sources: [{ label: 'Mesto Dubnica — tréningy a klubová práca', url: 'https://www.dubnica.eu/udalosti-v-meste/aktuality/v-roku-2025-domov-z-najvyssej-sutaze-prinieslo-medailu-22-dubnickych-sportovcov-a-sportovkyn-4147sk.html' }],
       },
     ],
   },

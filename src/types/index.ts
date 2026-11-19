@@ -34,6 +34,7 @@ export interface HistorySection {
 export interface HistoryEvent {
   year: string;
   text: string;
+  sources?: { label: string; url: string }[];
   photos?: HistoryPhoto[];
 }
 

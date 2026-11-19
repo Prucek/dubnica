@@ -30,6 +30,9 @@ export default function HistoryPage() {
                     {event.year}
                   </div>
                   <p className="text-gray-700 dark:text-gray-300 leading-relaxed">{event.text}</p>
+                  {event.sources && <div className="mt-2 flex flex-wrap gap-3 text-xs text-gray-500 dark:text-gray-400">
+                    {event.sources.map(source => <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer" className="underline hover:text-gold-600">{source.label} ↗</a>)}
+                  </div>}
                   {event.photos && event.photos.length > 0 && (
                     <div className="flex flex-wrap gap-3 mt-3">
                       {event.photos.map((photo, pIdx) => (

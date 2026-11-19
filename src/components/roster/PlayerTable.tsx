@@ -68,14 +68,14 @@ export default function PlayerTable({ players }: { players: Player[] }) {
           <tbody>
             {visible.map((player, i) => (
               <tr
-                key={player.fideId}
+                key={`${player.fideId}-${player.name}`}
                 className={`border-b border-gray-200 dark:border-navy-700 hover:bg-navy-50 dark:hover:bg-navy-800 transition-colors ${
                   i % 2 === 0 ? 'bg-white dark:bg-navy-900' : 'bg-gray-50 dark:bg-navy-800/50'
                 }`}
               >
                 <td className="px-3 py-2.5 text-sm text-gray-400">{i + 1}</td>
                 <td className="px-3 py-2.5 text-sm font-medium text-gray-900 dark:text-gray-100">{player.name}</td>
-                <td className="px-3 py-2.5 text-sm font-semibold text-navy-600 dark:text-navy-200">{player.elo}</td>
+                <td className="px-3 py-2.5 text-sm font-semibold text-navy-600 dark:text-navy-200">{player.elo || '—'}</td>
                 <td className="px-3 py-2.5 text-sm text-gray-600 dark:text-gray-400 hidden sm:table-cell">
                   {player.rapidElo ?? '—'}
                 </td>
@@ -83,14 +83,14 @@ export default function PlayerTable({ players }: { players: Player[] }) {
                   {player.blitzElo ?? '—'}
                 </td>
                 <td className="px-3 py-2.5 text-sm hidden md:table-cell">
-                  <a
+                  {player.fideId ? <a
                     href={`https://ratings.fide.com/profile/${player.fideId}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-navy-500 dark:text-navy-300 hover:text-gold-600 transition-colors"
                   >
                     {player.fideId}
-                  </a>
+                  </a> : '—'}
                 </td>
               </tr>
             ))}

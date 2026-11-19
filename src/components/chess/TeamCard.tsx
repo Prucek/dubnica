@@ -16,10 +16,10 @@ export default function TeamCard({ team }: TeamCardProps) {
           <h3 className="font-semibold text-navy-600 dark:text-navy-200">{team.name}</h3>
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">{team.league}</p>
           {team.position && (
-            <p className="text-sm text-gray-700 dark:text-gray-300 mb-2">{team.position}</p>
+            <p className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">{team.position}</p>
           )}
           <ExternalLink href={team.chessResultsUrl}>
-            Zobraziť výsledky
+            Tabuľka na Chess-Results →
           </ExternalLink>
         </div>
       </div>

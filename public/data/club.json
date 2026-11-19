@@ -1,0 +1,1529 @@
+{
+  "season": "2026/2027",
+  "fetchedAt": "2026-11-19T19:49:02.528Z",
+  "membersUrl": "https://www.chess.sk/index.php?str=clenovia&klubId=60301",
+  "players": [
+    {
+      "name": "Motúz, Karol",
+      "fideId": 14902621,
+      "elo": 2252,
+      "rapidElo": 2297,
+      "blitzElo": 2201
+    },
+    {
+      "name": "Vojtek, Vladimír",
+      "fideId": 14901919,
+      "elo": 2208,
+      "rapidElo": 2243,
+      "blitzElo": 2095
+    },
+    {
+      "name": "Rúček, Kristián",
+      "fideId": 73611409,
+      "elo": 2167,
+      "rapidElo": 2047,
+      "blitzElo": 1986
+    },
+    {
+      "name": "Koutný, Petr",
+      "fideId": 310743,
+      "elo": 2151,
+      "rapidElo": 2212,
+      "blitzElo": 2048
+    },
+    {
+      "name": "Bôrik, Juraj",
+      "fideId": 14901196,
+      "elo": 2143,
+      "rapidElo": 2034,
+      "blitzElo": 2061
+    },
+    {
+      "name": "Vereš, Andrej",
+      "fideId": 14906074,
+      "elo": 2138
+    },
+    {
+      "name": "Bombek, Peter",
+      "fideId": 14902230,
+      "elo": 2122,
+      "rapidElo": 2058,
+      "blitzElo": 2020
+    },
+    {
+      "name": "Jakúbek, Peter",
+      "fideId": 14901048,
+      "elo": 2102,
+      "rapidElo": 2123,
+      "blitzElo": 2094
+    },
+    {
+      "name": "Pupák, Tomáš",
+      "fideId": 14923963,
+      "elo": 2070,
+      "rapidElo": 1978
+    },
+    {
+      "name": "Šošovičková, Jana",
+      "fideId": 14944596,
+      "elo": 2054,
+      "rapidElo": 1891,
+      "blitzElo": 1948
+    },
+    {
+      "name": "Kováčik, Emil",
+      "fideId": 14902788,
+      "elo": 2050,
+      "rapidElo": 1987
+    },
+    {
+      "name": "Rúček, Peter",
+      "fideId": 73611395,
+      "elo": 2046,
+      "rapidElo": 1883,
+      "blitzElo": 1870
+    },
+    {
+      "name": "Buzalka, Martin",
+      "fideId": 14975726,
+      "elo": 2045,
+      "rapidElo": 1915,
+      "blitzElo": 2026
+    },
+    {
+      "name": "Prášek, Ivan",
+      "fideId": 14923742,
+      "elo": 2035,
+      "rapidElo": 2058
+    },
+    {
+      "name": "Orgoň, Patrik",
+      "fideId": 73616419,
+      "elo": 2022,
+      "rapidElo": 2001,
+      "blitzElo": 1931
+    },
+    {
+      "name": "Orgoň, Dušan",
+      "fideId": 14902443,
+      "elo": 1993,
+      "rapidElo": 1917,
+      "blitzElo": 1986
+    },
+    {
+      "name": "Lasch, Miroslav",
+      "fideId": 14904810,
+      "elo": 1986,
+      "rapidElo": 1966
+    },
+    {
+      "name": "Kútny, Marian",
+      "fideId": 14916185,
+      "elo": 1979,
+      "rapidElo": 1929,
+      "blitzElo": 1951
+    },
+    {
+      "name": "Vyhlídal, Jozef",
+      "fideId": 14903970,
+      "elo": 1976,
+      "rapidElo": 2011
+    },
+    {
+      "name": "Hlinka, Miroslav",
+      "fideId": 14907020,
+      "elo": 1934
+    },
+    {
+      "name": "Slotík, Igor",
+      "fideId": 14912295,
+      "elo": 1930
+    },
+    {
+      "name": "Karapetsas, Athanasios",
+      "fideId": 73617083,
+      "elo": 1926,
+      "rapidElo": 1810,
+      "blitzElo": 1839
+    },
+    {
+      "name": "Vronka, Ján",
+      "fideId": 14963817,
+      "elo": 1891,
+      "rapidElo": 1800
+    },
+    {
+      "name": "Polák, Emanuel",
+      "fideId": 14912279,
+      "elo": 1882,
+      "rapidElo": 1772,
+      "blitzElo": 1783
+    },
+    {
+      "name": "Cyprian, Marian",
+      "fideId": 14907690,
+      "elo": 1872
+    },
+    {
+      "name": "Krajčovič, Alojz",
+      "fideId": 14910098,
+      "elo": 1856
+    },
+    {
+      "name": "Kuchárek, Tibor",
+      "fideId": 14946017,
+      "elo": 1843
+    },
+    {
+      "name": "Solík, Rudolf",
+      "fideId": 14917599,
+      "elo": 1832,
+      "rapidElo": 1870
+    },
+    {
+      "name": "Tomko, Michal",
+      "fideId": 14946130,
+      "elo": 1827
+    },
+    {
+      "name": "Mazúr, Mário",
+      "fideId": 73611298,
+      "elo": 1821,
+      "rapidElo": 1719,
+      "blitzElo": 1719
+    },
+    {
+      "name": "Šošovičková, Martina",
+      "fideId": 14948540,
+      "elo": 1818,
+      "rapidElo": 1799,
+      "blitzElo": 1837
+    },
+    {
+      "name": "Kučera, Peter",
+      "fideId": 14973375,
+      "elo": 1816,
+      "rapidElo": 1739
+    },
+    {
+      "name": "Kudlej, Adam",
+      "fideId": 73611379,
+      "elo": 1814
+    },
+    {
+      "name": "Sliva, František",
+      "fideId": 14908166,
+      "elo": 1789,
+      "rapidElo": 1823,
+      "blitzElo": 1792
+    },
+    {
+      "name": "Genzor, Martin",
+      "fideId": 14952084,
+      "elo": 1779
+    },
+    {
+      "name": "Horváth, Alojz",
+      "fideId": 14921782,
+      "elo": 1775,
+      "blitzElo": 1786
+    },
+    {
+      "name": "Janíček, Jozef",
+      "fideId": 14951878,
+      "elo": 1762,
+      "rapidElo": 1802
+    },
+    {
+      "name": "Matejka, Peter",
+      "fideId": 14947838,
+      "elo": 1738,
+      "rapidElo": 1731
+    },
+    {
+      "name": "Šošovička, Marián",
+      "fideId": 14948982,
+      "elo": 1732,
+      "rapidElo": 1692,
+      "blitzElo": 1692
+    },
+    {
+      "name": "Šajtlava, Igor",
+      "fideId": 14916622,
+      "elo": 1730,
+      "rapidElo": 1817
+    },
+    {
+      "name": "Chlebana, Dušan",
+      "fideId": 14953358,
+      "elo": 1724
+    },
+    {
+      "name": "Černický, Ján",
+      "fideId": 14929597,
+      "elo": 1714,
+      "rapidElo": 1743
+    },
+    {
+      "name": "Jankech, Andrej",
+      "fideId": 14965330,
+      "elo": 1713,
+      "blitzElo": 1674
+    },
+    {
+      "name": "Zelenka, Matej",
+      "fideId": 14964309,
+      "elo": 1713,
+      "rapidElo": 1686,
+      "blitzElo": 1643
+    },
+    {
+      "name": "Kútny, Marian",
+      "fideId": 14921812,
+      "elo": 1688,
+      "rapidElo": 1677,
+      "blitzElo": 1753
+    },
+    {
+      "name": "Kapuš, Samuel",
+      "fideId": 549002457,
+      "elo": 1684,
+      "rapidElo": 1528
+    },
+    {
+      "name": "Poruban, Juraj",
+      "fideId": 14983761,
+      "elo": 1673,
+      "rapidElo": 1517
+    },
+    {
+      "name": "Perďoch, Marián",
+      "fideId": 14987430,
+      "elo": 1671,
+      "rapidElo": 1702
+    },
+    {
+      "name": "Baur, Martin",
+      "fideId": 14985659,
+      "elo": 1670,
+      "rapidElo": 1518,
+      "blitzElo": 1714
+    },
+    {
+      "name": "Lasch, Filip",
+      "fideId": 14973944,
+      "elo": 1645,
+      "rapidElo": 1498
+    },
+    {
+      "name": "Géze, Daniel",
+      "fideId": 14965674,
+      "elo": 1638,
+      "rapidElo": 1524
+    },
+    {
+      "name": "Hrubiško, Lukáš",
+      "fideId": 14943956,
+      "elo": 1631,
+      "rapidElo": 1631,
+      "blitzElo": 1635
+    },
+    {
+      "name": "Bašo, Patrik",
+      "fideId": 14970406,
+      "elo": 1618
+    },
+    {
+      "name": "Húserka, František",
+      "fideId": 14945983,
+      "elo": 1610
+    },
+    {
+      "name": "Sehnoutek, Miroslav",
+      "fideId": 14956063,
+      "elo": 1607,
+      "rapidElo": 1556
+    },
+    {
+      "name": "Rúček, Pavol",
+      "fideId": 14953129,
+      "elo": 1603
+    },
+    {
+      "name": "Tomaníková, Ľudmila",
+      "fideId": 14948494,
+      "elo": 1581,
+      "rapidElo": 1675,
+      "blitzElo": 1642
+    },
+    {
+      "name": "Smatana, Tibor",
+      "fideId": 73622770,
+      "elo": 1551,
+      "rapidElo": 1574
+    },
+    {
+      "name": "Holečková, Ema",
+      "fideId": 73616494,
+      "elo": 1500,
+      "rapidElo": 1469
+    },
+    {
+      "name": "Dubnička, Ferdinand",
+      "fideId": 14944057,
+      "elo": 1498,
+      "rapidElo": 1591,
+      "blitzElo": 1635
+    },
+    {
+      "name": "Gašaj, Tibor",
+      "fideId": 14973936,
+      "elo": 1480,
+      "blitzElo": 1411
+    },
+    {
+      "name": "Motyčák, Milan",
+      "fideId": 14993929,
+      "elo": 1435
+    },
+    {
+      "name": "Chrastina, Jakub",
+      "fideId": 549010131,
+      "elo": 0
+    },
+    {
+      "name": "Kozempel, Kristián",
+      "fideId": 549010182,
+      "elo": 0
+    },
+    {
+      "name": "Mádr, Martin",
+      "fideId": 14983745,
+      "elo": 0
+    },
+    {
+      "name": "Matuščin, Šimon",
+      "fideId": 14978415,
+      "elo": 0
+    },
+    {
+      "name": "Okuliar, Jozef",
+      "fideId": 14980002,
+      "elo": 0
+    },
+    {
+      "name": "Orgoň, Michal",
+      "fideId": 14972336,
+      "elo": 0
+    },
+    {
+      "name": "Porubský, Andrej",
+      "fideId": 14976897,
+      "elo": 0
+    },
+    {
+      "name": "Sedlák, Matúš",
+      "fideId": 549004034,
+      "elo": 0
+    },
+    {
+      "name": "Sedlák, Vladimír",
+      "fideId": 14978768,
+      "elo": 0
+    },
+    {
+      "name": "Smatana, Cyril",
+      "fideId": 549004042,
+      "elo": 0
+    },
+    {
+      "name": "Smatana, Viktor",
+      "fideId": 73622761,
+      "elo": 0
+    },
+    {
+      "name": "Šinko, Pavol",
+      "fideId": 549007807,
+      "elo": 0
+    },
+    {
+      "name": "Tichý, Samuel",
+      "fideId": 549003429,
+      "elo": 0
+    },
+    {
+      "name": "Tomko, Dávid",
+      "fideId": 14984954,
+      "elo": 0
+    }
+  ],
+  "leagues": [
+    {
+      "id": "1452291",
+      "name": "Slovenská šachová extraliga",
+      "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0",
+      "title": "Slovenská šachová extraliga 2026/2027",
+      "sourceUpdated": "10.11.2026 18:36:34",
+      "matches": [
+        {
+          "id": "1452291-1-2-12",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 1,
+          "date": "2026-11-21",
+          "time": "11:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "ŠK K CERO INVEST Nitra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1452291-2-2-9",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 2,
+          "date": "2026-11-22",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "ŠK Čebovce",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1452291-3-2-7",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 3,
+          "date": "2026-12-19",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "Liptovská šachová škola",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1452291-4-2-6",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 4,
+          "date": "2026-12-20",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "Reinter Humenné",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1452291-5-8-2",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 5,
+          "date": "2027-01-23",
+          "time": "10:00",
+          "home": "KŠC Komárno",
+          "away": "ŠKŠ Dubnica nad Váhom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1452291-6-5-2",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 6,
+          "date": "2027-01-24",
+          "time": "10:00",
+          "home": "ŠK Dunajská Streda",
+          "away": "ŠKŠ Dubnica nad Váhom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1452291-7-11-2",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 7,
+          "date": "2027-02-27",
+          "time": "10:00",
+          "home": "LŠŠ Erigom Tatran Zakamenné",
+          "away": "ŠKŠ Dubnica nad Váhom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1452291-8-10-2",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 8,
+          "date": "2027-02-28",
+          "time": "10:00",
+          "home": "TJ Slávia Caissa Čadca",
+          "away": "ŠKŠ Dubnica nad Váhom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1452291-9-2-3",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 9,
+          "date": "2027-04-16",
+          "time": "16:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "INBEST Dunajov-Martin",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1452291-10-1-2",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 10,
+          "date": "2027-04-17",
+          "time": "14:00",
+          "home": "Slovan INCHEBA Bratislava",
+          "away": "ŠKŠ Dubnica nad Váhom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=10",
+          "scheduleNote": "Dátum v rozpise zápasu sa líši od termínu kola; presný termín si overte u organizátora."
+        },
+        {
+          "id": "1452291-11-2-4",
+          "leagueId": "1452291",
+          "league": "Slovenská šachová extraliga",
+          "round": 11,
+          "date": "2027-04-18",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom",
+          "away": "ŠK Osuské",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1452291.aspx?lan=4&SNode=S0&art=20&rd=11",
+          "scheduleNote": "Dátum v rozpise zápasu sa líši od termínu kola; presný termín si overte u organizátora."
+        }
+      ],
+      "standings": [
+        {
+          "name": "ŠKŠ Dubnica nad Váhom",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "id": "1457192",
+      "name": "1. liga Západ",
+      "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0",
+      "title": "1.liga Západ 2026/2027",
+      "sourceUpdated": "15.11.2026 19:21:17",
+      "matches": [
+        {
+          "id": "1457192-1-4-5",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 1,
+          "date": "2026-10-24",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom B",
+          "away": "ŠK Modra",
+          "homeScore": 7,
+          "awayScore": 1,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1457192-2-4-8",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 2,
+          "date": "2026-10-25",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom B",
+          "away": "ŠK Doprastav Bratislava",
+          "homeScore": 4,
+          "awayScore": 4,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1457192-3-9-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 3,
+          "date": "2026-11-14",
+          "time": "10:00",
+          "home": "ŠK Dunajská Streda B",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 6,
+          "awayScore": 2,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1457192-4-12-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 4,
+          "date": "2026-11-15",
+          "time": "10:00",
+          "home": "ŠK Z.Miholicsa EuroPRESS Bátorove Kosihy",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 5.5,
+          "awayScore": 2.5,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1457192-5-1-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 5,
+          "date": "2026-12-05",
+          "time": "10:00",
+          "home": "ŠK PK Ing.F.Julényi Trenčín",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1457192-6-4-3",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 6,
+          "date": "2026-12-06",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom B",
+          "away": "TŠŠ Trnava MŠK Sereď",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1457192-7-2-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 7,
+          "date": "2027-01-09",
+          "time": "10:00",
+          "home": "ŠK Cífer",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1457192-8-4-10",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 8,
+          "date": "2027-02-06",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom B",
+          "away": "NŠK Nitra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1457192-9-4-11",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 9,
+          "date": "2027-02-07",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom B",
+          "away": "ŠK Levice",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1457192-10-6-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 10,
+          "date": "2027-03-13",
+          "time": "10:00",
+          "home": "KŠN Bratislava",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=10"
+        },
+        {
+          "id": "1457192-11-7-4",
+          "leagueId": "1457192",
+          "league": "1. liga Západ",
+          "round": 11,
+          "date": "2027-03-14",
+          "time": "10:00",
+          "home": "ŠK Slovan Bratislava B",
+          "away": "ŠKŠ Dubnica nad Váhom B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457192.aspx?lan=4&SNode=S0&art=20&rd=11"
+        }
+      ],
+      "standings": [
+        {
+          "name": "ŠKŠ Dubnica nad Váhom B",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "1457218",
+      "name": "2. liga B",
+      "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0",
+      "title": "2. liga B 2026/2027",
+      "sourceUpdated": "08.11.2026 17:52:14",
+      "matches": [
+        {
+          "id": "1457218-1-4-5",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 1,
+          "date": "2026-10-17",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom C",
+          "away": "Topoľčiansky ŠK",
+          "homeScore": 4,
+          "awayScore": 4,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1457218-2-4-8",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 2,
+          "date": "2026-10-18",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom C",
+          "away": "ŠK Topoľčianky",
+          "homeScore": 5,
+          "awayScore": 3,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1457218-3-9-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 3,
+          "date": "2026-11-07",
+          "time": "10:00",
+          "home": "---",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "bye",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1457218-4-12-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 4,
+          "date": "2026-11-08",
+          "time": "10:00",
+          "home": "OŠK Žihárec",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 7,
+          "awayScore": 1,
+          "status": "completed",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1457218-5-1-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 5,
+          "date": "2026-11-28",
+          "time": "10:00",
+          "home": "ŠK Považské Podhradie",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1457218-6-4-3",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 6,
+          "date": "2026-11-29",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom C",
+          "away": "ŠK Chynorany",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1457218-7-2-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 7,
+          "date": "2027-01-10",
+          "time": "10:00",
+          "home": "ŠK Prievidza",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1457218-8-4-10",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 8,
+          "date": "2027-01-30",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom C",
+          "away": "KŠC Komárno B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1457218-9-4-11",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 9,
+          "date": "2027-01-31",
+          "time": "10:00",
+          "home": "ŠKŠ Dubnica nad Váhom C",
+          "away": "ŠK Z.Miholicsa EuroPRESS Bátorove Kosihy",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1457218-10-6-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 10,
+          "date": "2027-03-06",
+          "time": "10:00",
+          "home": "NŠK Tlmače",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=10"
+        },
+        {
+          "id": "1457218-11-7-4",
+          "leagueId": "1457218",
+          "league": "2. liga B",
+          "round": 11,
+          "date": "2027-03-07",
+          "time": "10:00",
+          "home": "ŠK Levice B",
+          "away": "ŠKŠ Dubnica nad Váhom C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s3.chess-results.com/tnr1457218.aspx?lan=4&SNode=S0&art=20&rd=11"
+        }
+      ],
+      "standings": [
+        {
+          "name": "ŠKŠ Dubnica nad Váhom C",
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "1492224",
+      "name": "3. liga B2",
+      "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0",
+      "title": "SVK_3.liga B2 2026/2027",
+      "sourceUpdated": "01.11.2026 09:21:19",
+      "matches": [
+        {
+          "id": "1492224-1-3-10",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 1,
+          "date": "2026-10-11",
+          "time": "09:00",
+          "home": "ŠK Považské Podhradie B",
+          "away": "ŠKŠ Dubnica nad Váhom D",
+          "homeScore": 5,
+          "awayScore": 3,
+          "status": "completed",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1492224-1-4-9",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 1,
+          "date": "2026-10-11",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom E",
+          "away": "ŠK Chynorany B",
+          "homeScore": 3.5,
+          "awayScore": 4.5,
+          "status": "completed",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1492224-2-10-4",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 2,
+          "date": "2026-10-25",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom D",
+          "away": "ŠKŠ Dubnica nad Váhom E",
+          "homeScore": 7,
+          "awayScore": 1,
+          "status": "completed",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1492224-3-4-11",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 3,
+          "date": "2026-11-22",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom E",
+          "away": "ŠK PK Ing.F.Julényi Trenčín B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1492224-3-5-10",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 3,
+          "date": "2026-11-22",
+          "time": "09:00",
+          "home": "ŠK PK Ing.F.Julényi Trenčín C",
+          "away": "ŠKŠ Dubnica nad Váhom D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1492224-4-10-6",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 4,
+          "date": "2026-12-06",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom D",
+          "away": "TJ Baník Lehota pod Vtáčnikom",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1492224-4-1-4",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 4,
+          "date": "2026-12-06",
+          "time": "09:00",
+          "home": "ŠK Sparta Považská Bystrica",
+          "away": "ŠKŠ Dubnica nad Váhom E",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1492224-5-4-2",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 5,
+          "date": "2026-12-20",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom E",
+          "away": "ŠK Handlová",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1492224-5-7-10",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 5,
+          "date": "2026-12-20",
+          "time": "09:00",
+          "home": "CVČ Včielka Púchov",
+          "away": "ŠKŠ Dubnica nad Váhom D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1492224-6-10-8",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 6,
+          "date": "2027-01-17",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom D",
+          "away": "ŠK Prievidza B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1492224-6-3-4",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 6,
+          "date": "2027-01-17",
+          "time": "09:00",
+          "home": "ŠK Považské Podhradie B",
+          "away": "ŠKŠ Dubnica nad Váhom E",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1492224-7-9-10",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 7,
+          "date": "2027-02-07",
+          "time": "09:00",
+          "home": "ŠK Chynorany B",
+          "away": "ŠKŠ Dubnica nad Váhom D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1492224-8-4-5",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 8,
+          "date": "2027-02-28",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom E",
+          "away": "ŠK PK Ing.F.Julényi Trenčín C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1492224-9-6-4",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 9,
+          "date": "2027-03-21",
+          "time": "09:00",
+          "home": "TJ Baník Lehota pod Vtáčnikom",
+          "away": "ŠKŠ Dubnica nad Váhom E",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1492224-9-10-11",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 9,
+          "date": "2027-03-21",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom D",
+          "away": "ŠK PK Ing.F.Julényi Trenčín B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1492224-10-1-10",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 10,
+          "date": "2027-04-04",
+          "time": "09:00",
+          "home": "ŠK Sparta Považská Bystrica",
+          "away": "ŠKŠ Dubnica nad Váhom D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=10"
+        },
+        {
+          "id": "1492224-10-4-7",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 10,
+          "date": "2027-04-04",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom E",
+          "away": "CVČ Včielka Púchov",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=10"
+        },
+        {
+          "id": "1492224-11-8-4",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 11,
+          "date": "2027-04-18",
+          "time": "09:00",
+          "home": "ŠK Prievidza B",
+          "away": "ŠKŠ Dubnica nad Váhom E",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=11"
+        },
+        {
+          "id": "1492224-11-10-2",
+          "leagueId": "1492224",
+          "league": "3. liga B2",
+          "round": 11,
+          "date": "2027-04-18",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica nad Váhom D",
+          "away": "ŠK Handlová",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s2.chess-results.com/tnr1492224.aspx?lan=4&SNode=S0&art=20&rd=11"
+        }
+      ],
+      "standings": [
+        {
+          "name": "ŠKŠ Dubnica nad Váhom D",
+          "rank": 3
+        },
+        {
+          "name": "ŠKŠ Dubnica nad Váhom E",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "1502262",
+      "name": "4. liga B21",
+      "boards": 5,
+      "rounds": 10,
+      "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0",
+      "title": "4.liga B21 2026/2027",
+      "sourceUpdated": "15.11.2026 20:35:36",
+      "matches": [
+        {
+          "id": "1502262-1-3-4",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 1,
+          "date": "2026-10-18",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V G",
+          "away": "ŠKŠ Dubnica n/V F",
+          "homeScore": 0.5,
+          "awayScore": 4.5,
+          "status": "completed",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=1"
+        },
+        {
+          "id": "1502262-2-6-4",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 2,
+          "date": "2026-11-08",
+          "time": "09:00",
+          "home": "ŠK Pov. Podhradie C",
+          "away": "ŠKŠ Dubnica n/V F",
+          "homeScore": 0.5,
+          "awayScore": 4.5,
+          "status": "completed",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1502262-2-5-3",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 2,
+          "date": "2026-11-08",
+          "time": "09:00",
+          "home": "ŠK PK Ing. F. Julényi Trenčín D",
+          "away": "ŠKŠ Dubnica n/V G",
+          "homeScore": 4,
+          "awayScore": 1,
+          "status": "completed",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=2"
+        },
+        {
+          "id": "1502262-3-3-1",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 3,
+          "date": "2026-11-15",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V G",
+          "away": "ŠK Pov. Podhradie D",
+          "homeScore": 3,
+          "awayScore": 2,
+          "status": "completed",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1502262-3-4-5",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 3,
+          "date": "2026-11-15",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V F",
+          "away": "ŠK PK Ing. F. Julényi Trenčín D",
+          "homeScore": 3,
+          "awayScore": 2,
+          "status": "completed",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=3"
+        },
+        {
+          "id": "1502262-4-1-4",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 4,
+          "date": "2026-12-13",
+          "time": "09:00",
+          "home": "ŠK Pov. Podhradie D",
+          "away": "ŠKŠ Dubnica n/V F",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1502262-4-2-3",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 4,
+          "date": "2026-12-13",
+          "time": "09:00",
+          "home": "ŠK CVČ Včielka Púchov B",
+          "away": "ŠKŠ Dubnica n/V G",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=4"
+        },
+        {
+          "id": "1502262-5-3-6",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 5,
+          "date": "2027-01-10",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V G",
+          "away": "ŠK Pov. Podhradie C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1502262-5-4-2",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 5,
+          "date": "2027-01-10",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V F",
+          "away": "ŠK CVČ Včielka Púchov B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=5"
+        },
+        {
+          "id": "1502262-6-4-3",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 6,
+          "date": "2027-01-24",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V F",
+          "away": "ŠKŠ Dubnica n/V G",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=6"
+        },
+        {
+          "id": "1502262-7-4-6",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 7,
+          "date": "2027-02-21",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V F",
+          "away": "ŠK Pov. Podhradie C",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1502262-7-3-5",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 7,
+          "date": "2027-02-21",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V G",
+          "away": "ŠK PK Ing. F. Julényi Trenčín D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=7"
+        },
+        {
+          "id": "1502262-8-1-3",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 8,
+          "date": "2027-02-27",
+          "time": "09:00",
+          "home": "ŠK Pov. Podhradie D",
+          "away": "ŠKŠ Dubnica n/V G",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1502262-8-5-4",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 8,
+          "date": "2027-02-27",
+          "time": "09:00",
+          "home": "ŠK PK Ing. F. Julényi Trenčín D",
+          "away": "ŠKŠ Dubnica n/V F",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=8"
+        },
+        {
+          "id": "1502262-9-4-1",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 9,
+          "date": "2027-03-14",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V F",
+          "away": "ŠK Pov. Podhradie D",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1502262-9-3-2",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 9,
+          "date": "2027-03-14",
+          "time": "09:00",
+          "home": "ŠKŠ Dubnica n/V G",
+          "away": "ŠK CVČ Včielka Púchov B",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=9"
+        },
+        {
+          "id": "1502262-10-6-3",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 10,
+          "date": "2027-04-11",
+          "time": "09:00",
+          "home": "ŠK Pov. Podhradie C",
+          "away": "ŠKŠ Dubnica n/V G",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=10"
+        },
+        {
+          "id": "1502262-10-2-4",
+          "leagueId": "1502262",
+          "league": "4. liga B21",
+          "round": 10,
+          "date": "2027-04-11",
+          "time": "09:00",
+          "home": "ŠK CVČ Včielka Púchov B",
+          "away": "ŠKŠ Dubnica n/V F",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "scheduled",
+          "url": "https://s1.chess-results.com/tnr1502262.aspx?lan=4&SNode=S0&art=20&rd=10"
+        }
+      ],
+      "standings": [
+        {
+          "name": "ŠKŠ Dubnica n/V F",
+          "rank": 1
+        },
+        {
+          "name": "ŠKŠ Dubnica n/V G",
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
